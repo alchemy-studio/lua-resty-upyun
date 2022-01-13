@@ -1,4 +1,4 @@
-# 又拍云 lua SDK
+# 又拍云 LUA SDK
 
 又拍云存储lua SDK，基于 [又拍云存储HTTP REST API接口](http://docs.upyun.com/api/http_api/)，[nginx](http://nginx.org/)，[ngx_lua](https://github.com/openresty/lua-nginx-module) 开发。
 
